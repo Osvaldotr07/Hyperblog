@@ -9,8 +9,24 @@ body {
     width: 50%;
     height: auto;
     margin: auto;
-    text-align: center;
+    text-align: left;
     border: 1px solid #f3f3f3;
     padding: 15px;
     font-family: Courier;
+}
+
+.cabecera {
+    background-color: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,.5);
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+.tagline {
+    font-size: 1em;
+    font-weight: lighter;
+    margin-left: 0.8em;
+
 }
