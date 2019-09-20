@@ -12,10 +12,11 @@ body {
     color: #333;
     text-align: left;
     border: 1px solid #f3f3f3;
-    padding: 15px;
     font-family: Arial;
 }
-
+.blog {
+    padding: 15px;
+}
 .cabecera {
     background-color: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,.5);
@@ -30,4 +31,16 @@ body {
     font-weight: lighter;
     margin-left: 0.8em;
 
+}
+
+.footer {
+    height: 1.5em;
+    width: 100%;
+    background-color: #777;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin:0;
+    font-weight: bold;
 }
