@@ -8,6 +8,10 @@ experimento 1
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 2
+>>>>>>> exp 2
 
 Mañana nos enfocaremos en tu vida laboral
